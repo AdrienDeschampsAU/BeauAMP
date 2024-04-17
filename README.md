@@ -42,6 +42,8 @@ The produced database is directly available publicly online on [Zenodo](https://
 * Several CSVs, each containing one year's data
 * Pickle file
 
+* Note Adrien : je pensais faire un zenodo à part à destination des non chercheurs avec une version francophone et en csv. Tu en penses quoi ?
+
 
 # References
 XXXXX
