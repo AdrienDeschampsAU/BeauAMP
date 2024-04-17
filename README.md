@@ -21,9 +21,7 @@ This work was conducted in the framework of the DeCoMaP ANR project (Detection o
 
 # Organization
 This repository is composed of the following elements:
-XXX
-
-The script requires the SIRENE data, which can be downloaded [here](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) for the characteristics of agents and [here](https://www.data.gouv.fr/fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/) for their GPS positions.
+* The folder "required_files" contains CSV files used for the consolidation of the dataset. The script also requires the SIRENE data, which can be downloaded [here](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) for the characteristics of agents and [here](https://www.data.gouv.fr/fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/) for their GPS positions. These files are too heavy to be uploaded on the GitHub.
 
 # Installation
 You first need to install `python` and the required packages:
@@ -40,9 +38,7 @@ XXXX
 The produced database is directly available publicly online on [Zenodo](https://doi.org/XXXXX), under three different forms:
 * Single CSV containing all data
 * Several CSVs, each containing one year's data
-* Pickle file
-
-* Note Adrien : je pensais faire un zenodo à part à destination des non chercheurs avec une version francophone et en csv. Tu en penses quoi ?
+* Pickle file (recommended)
 
 
 # References
