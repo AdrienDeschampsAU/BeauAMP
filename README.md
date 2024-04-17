@@ -1,10 +1,6 @@
-# BeauAMP
-Base Étendue, Améliorée et Unifiée des Annonces des Marchés Publics
-
-
 BeauAMP v1.0.0
 -------------------------------------------------------------------------
-*Initialization of the BeauAMP database*
+*Base Étendue, Améliorée et Unifiée des Annonces des Marchés Publics*
 
 * Copyright 2024 Adrien DESCHAMPS & Lucas POTIN
 
