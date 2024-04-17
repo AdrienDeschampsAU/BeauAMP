@@ -30,15 +30,15 @@ This repository is composed of the following elements:
 
 # Installation
 You first need to install `python` and the required packages:
-* pandas
-* pickle
-* geopy
-* numpy
-* datetime
-* re
-* json
-* urllib
-* ast
+* `pandas`
+* `pickle`
+* `geopy`
+* `numpy`
+* `datetime`
+* `re`
+* `json`
+* `urllib`
+* `ast`
 
 # Use
 In order to build the BeauAMP database:
