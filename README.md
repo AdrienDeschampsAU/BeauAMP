@@ -23,7 +23,7 @@ This work was conducted in the framework of the DeCoMaP ANR project (Detection o
 This repository is composed of the following elements:
 XXX
 
-The script requires the SIRENE data, which can be downloaded [here](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)
+The script requires the SIRENE data, which can be downloaded [here](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) and [here](https://www.data.gouv.fr/fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/) for GPS positions of French agents.
 
 # Installation
 You first need to install `python` and the required packages:
