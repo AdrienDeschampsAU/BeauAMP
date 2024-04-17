@@ -21,6 +21,11 @@ This work was conducted in the framework of the DeCoMaP ANR project (Detection o
 
 # Organization
 This repository is composed of the following elements:
+* The file "data_processing" downloads and processes the data from the BOAMP website.
+* The file "listing_agents" generates the input of the machine learning algorithm used to estimate SIRETs (i.e. identifiers) from the processed table.
+* The file "siret_import" integrates the estimated SIRETs to the processed table.
+* The file "consolidation" uses the SIRETs to import data from the SIRENE repository into the dataset.
+* The file "geolocation" estimates the geolocation of foreing companies mentioned in the dataset.
 * The folder "required_files" contains CSV files used for the consolidation of the dataset. The script also requires the SIRENE data, which can be downloaded [here](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) for the characteristics of agents and [here](https://www.data.gouv.fr/fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/) for their GPS positions. These files are too heavy to be uploaded on the GitHub.
 
 # Installation
