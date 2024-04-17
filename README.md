@@ -17,6 +17,8 @@ These scripts create the BeauAMP database v.1.0.0 from raw BOAMP files. This dat
 
 The produced database is directly available on [Zenodo](https://doi.org/10.5281/zenodo.10980643). The detail of this processing are described in the following article [[D’23]](#references)
 
+This work was conducted in the framework of the DeCoMaP ANR project (Detection of corruption in public procurement markets -- ANR-19-CE38-0004).
+
 # Organization
 This repository is composed of the following elements:
 XXX
