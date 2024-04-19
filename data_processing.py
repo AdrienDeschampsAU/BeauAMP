@@ -956,7 +956,6 @@ for code in list_departements:
     data = json.loads(fichier.read().decode())
     award_notices = pd.concat([award_notices, pd.DataFrame(data)], ignore_index=True)
     print('département ' + code + ' traité')
-award_notices = award_notices[award_notices['famille'].isin(('JOUE','FNS', 'MAPA'))]
 
 award_notices = award_notices.drop_duplicates(subset = 'idweb')
 
