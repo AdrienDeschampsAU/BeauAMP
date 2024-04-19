@@ -36,7 +36,7 @@ You first need to install `python` and the required packages:
 
 
 # Dependencies
-Tested with Python version 3.12.2, with the following packages:
+Tested with Python version 3.11.7, with the following packages:
 * `pandas`: version 2.2.1
 * `geopy`: version 2.4.1
 * `numpy`: version 1.26.4
