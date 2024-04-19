@@ -40,9 +40,6 @@ You first need to install `python` and the required packages:
 * `urllib`
 * `ast`
 
-# Use
-In order to build the BeauAMP database:
-1. Open the Python console.
 
 # Dependencies
 XXXX
