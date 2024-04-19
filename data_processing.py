@@ -956,16 +956,12 @@ for code in list_departements:
     data = json.loads(fichier.read().decode())
     award_notices = pd.concat([award_notices, pd.DataFrame(data)], ignore_index=True)
     print('département ' + code + ' traité')
+award_notices = award_notices[award_notices['famille'].isin(('JOUE','FNS', 'MAPA'))]
 
 award_notices = award_notices.drop_duplicates(subset = 'idweb')
 
 
 # Data cleaning
-
-print('--- Keeping only public procurement contracts ---')
-families = ['FNS', 'JOUE', 'MAPA']
-for dataframe in [award_notices, contract_notices]:
-    dataframe = dataframe[dataframe['famille'].isin(families)]
 
 print('--- Keeping only contracts from 2015 ---')
 start_date = pd.to_datetime('2015-01-01')
