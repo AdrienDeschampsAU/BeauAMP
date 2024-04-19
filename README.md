@@ -31,18 +31,15 @@ This repository is composed of the following elements:
 # Installation
 You first need to install `python` and the required packages:
 * `pandas`
-* `pickle`
 * `geopy`
 * `numpy`
-* `datetime`
-* `re`
-* `json`
-* `urllib`
-* `ast`
 
 
 # Dependencies
-XXXX
+Tested with Python version 3.12.2, with the following packages:
+* `pandas`: version 2.2.1
+* `geopy`: version 2.4.1
+* `numpy`: version 1.26.4
 
 # Data
 The produced database is directly available publicly online on [Zenodo](https://doi.org/XXXXX), under three different forms:
