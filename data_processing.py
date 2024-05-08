@@ -1,5 +1,3 @@
-# pose problème car on prend les données dans l'observation d'avant
-
 import pandas as pd
 from datetime import datetime
 import pickle
