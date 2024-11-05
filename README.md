@@ -49,4 +49,5 @@ The produced database is directly available publicly online on [Zenodo](https://
 
 
 # References
-XXXXX
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4841560
