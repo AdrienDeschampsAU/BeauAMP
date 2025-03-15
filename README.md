@@ -15,7 +15,7 @@ BeauAMP is free software: you can redistribute it and/or modify it under the ter
 # Description
 These scripts create the BeauAMP database v.1.0.0 from raw BOAMP files. This database covers all public procurement contracts published in the BOAMP from 2015 to 2023. It also proposes an enrichment of these data, thanks to the siretization of agents (i.e. the retrieval of their unique IDs) as well as the categorization of award criteria, and other processing.
 
-The produced database is directly available on [Zenodo](https://doi.org/10.5281/zenodo.11001277). The detail of this processing are described in the following article [[[D’23](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4841560)]](#references)
+The produced database is directly available on [Zenodo](https://doi.org/10.5281/zenodo.11001277). The detail of this processing are described in the following article [[[D’23](https://www.sciencedirect.com/science/article/pii/S2352340925000095)]](#references)
 
 This work was conducted in the framework of the DeCoMaP ANR project (Detection of corruption in public procurement markets -- ANR-19-CE38-0004).
 
