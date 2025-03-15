@@ -50,4 +50,11 @@ The produced database is directly available publicly online on [Zenodo](https://
 
 # References
 
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4841560](https://www.sciencedirect.com/science/article/pii/S2352340925000095)
+[Adrien Deschamps, Lucas Potin,
+Processing and consolidation of open data on public procurement in France (2015–2023),
+Data in Brief,
+Volume 58,
+2025,
+111277,
+ISSN 2352-3409,
+https://doi.org/10.1016/j.dib.2025.111277](https://www.sciencedirect.com/science/article/pii/S2352340925000095)
